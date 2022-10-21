@@ -1,5 +1,6 @@
 # Tracer_LockedAndLoaded_Macro
 Heroes of the Storm Tracer Locked and Loaded talent automatic Macro.
+Youtube showcase and instruction: https://www.youtube.com/watch?v=ige7XFlC4BM
 
 1. Download AutoHotkey.
 2. Take a screenshot of Tracer reloading.
